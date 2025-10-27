@@ -1,0 +1,14 @@
+kafka-python
+neo4j
+python-dotenv
+fastapi
+uvicorn
+pandas
+numpy
+langchain
+langchain-groq
+requests
+streamlit
+plotly
+ipaddress
+dotenv
